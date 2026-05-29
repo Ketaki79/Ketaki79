@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 Hi, I’m Ketaki Bhoir, an Information Technology Engineer with a strong interest in software development, artificial intelligence, and scalable web applications. I have hands-on experience in full-stack development and AI-based solutions through internships, training programs, and academic projects. My technical expertise includes Java, Spring Boot, React, Python, MySQL, and modern web technologies, along with a solid understanding of data structures, algorithms, database management systems, and object-oriented programming. I have developed projects focused on financial management, healthcare platforms, machine learning, and intelligent automation, emphasizing performance, usability, and real-world impact. I am passionate about building efficient and user-focused software solutions, continuously enhancing my technical skills, and staying updated with emerging technologies in software engineering and artificial intelligence. I enjoy solving complex problems, collaborating in team environments, and contributing to innovative technology-driven solutions.<br>
 
 
